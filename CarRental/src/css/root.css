@@ -1,0 +1,15 @@
+#root {
+    /* max-width: 1368px; */
+    width: 100%;
+    height: inherit;
+ 
+}
+
+/* body > #root > div {
+    min-height: 61rem;
+  } */
+
+
+  html, body, #root > div {
+    height: 100%;
+  }
