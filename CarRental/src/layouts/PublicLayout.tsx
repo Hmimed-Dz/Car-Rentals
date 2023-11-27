@@ -18,7 +18,7 @@ function PublicLayout({ children }: any) {
       <ContentHeader />
       <Layout>
         <SiderContent />
-        <Layout style={{ padding: "0 24px 24px" }}>
+        <Layout >
           <Content
             style={{
               padding: 24,

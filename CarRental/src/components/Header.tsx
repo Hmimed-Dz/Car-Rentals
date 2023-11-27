@@ -5,7 +5,7 @@ import { MenuOutlined } from '@ant-design/icons';
 const { Header} = Layout;
 function ContentHeader() {
   return (
-    <Header style={{ display: 'flex', alignItems: 'center',background: "border-box" }}>
+    <Header style={{ display: 'flex', alignItems: 'center',background: "border-box" , borderBottom:" 1px solid gainsboro"}}>
         <Button type="primary" shape="circle">
         <MenuOutlined />
       </Button>
