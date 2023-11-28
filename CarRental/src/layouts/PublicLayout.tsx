@@ -21,7 +21,7 @@ function PublicLayout({ children }: any) {
         <Layout >
           <Content
             style={{
-              padding: 24,
+              padding: 79,
               margin: 0,
               minHeight: 280,
               background: colorBgContainer,
