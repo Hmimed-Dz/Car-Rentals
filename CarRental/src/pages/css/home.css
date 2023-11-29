@@ -1,0 +1,22 @@
+.anticon-ci-circle > svg{
+    width: 41px;
+    height: 28px;
+}
+.anticon-car > svg{
+    width: 41px;
+    height: 28px;
+}
+.anticon-calculator > svg{
+    width: 41px;
+    height: 28px;
+}
+#nest-messages_user_name{
+    font-size: 19px;
+}
+
+#nest-messages_user_email{
+    font-size: 19px;
+}
+#nest-messages_user_website{
+    font-size: 19px;
+}
